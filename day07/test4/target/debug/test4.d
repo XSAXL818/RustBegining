@@ -1,0 +1,1 @@
+D:\Code\RustCode\RustBegining\day07\test4\target\debug\test4.exe: D:\Code\RustCode\RustBegining\day07\test4\src\level1\level2.rs D:\Code\RustCode\RustBegining\day07\test4\src\level1.rs D:\Code\RustCode\RustBegining\day07\test4\src\lib.rs D:\Code\RustCode\RustBegining\day07\test4\src\main.rs D:\Code\RustCode\RustBegining\day07\test4\src\school.rs

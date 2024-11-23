@@ -1,0 +1,11 @@
+D:\Code\RustCode\RustBegining\day07\test3\target\debug\deps\libquote-afe0e6aaf0deb5e4.rmeta: C:\Users\MECHREVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src/lib.rs C:\Users\MECHREVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\ext.rs C:\Users\MECHREVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\format.rs C:\Users\MECHREVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\ident_fragment.rs C:\Users\MECHREVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\to_tokens.rs C:\Users\MECHREVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\runtime.rs C:\Users\MECHREVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\spanned.rs
+
+D:\Code\RustCode\RustBegining\day07\test3\target\debug\deps\quote-afe0e6aaf0deb5e4.d: C:\Users\MECHREVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src/lib.rs C:\Users\MECHREVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\ext.rs C:\Users\MECHREVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\format.rs C:\Users\MECHREVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\ident_fragment.rs C:\Users\MECHREVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\to_tokens.rs C:\Users\MECHREVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\runtime.rs C:\Users\MECHREVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\spanned.rs
+
+C:\Users\MECHREVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src/lib.rs:
+C:\Users\MECHREVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\ext.rs:
+C:\Users\MECHREVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\format.rs:
+C:\Users\MECHREVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\ident_fragment.rs:
+C:\Users\MECHREVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\to_tokens.rs:
+C:\Users\MECHREVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\runtime.rs:
+C:\Users\MECHREVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\spanned.rs:

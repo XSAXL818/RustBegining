@@ -1,3 +1,5 @@
+use Produce::get_pri_log;
+
 
 mod student {
     pub mod at_school {
@@ -30,7 +32,7 @@ mod Animal {
 }
 
 
-mod School {
+pub mod School {
     pub struct Stu {
         pub name:String,
         pub age:u8
@@ -44,4 +46,33 @@ fn get_pri() {
         age:13
     };
 }
+
+
+pub mod Produce {
+
+    #[derive(Debug)]
+    pub struct Car{
+        pub version:String,
+        log:String
+    }
+    // 只能获取标准化的车，不提供定制
+    pub fn Car() ->Car {
+        Car{
+            version:String::from("1.1.1"),
+            log:String::from("new")
+        }
+    }
+    // 只提供部分信息的访问权，不可以修改
+    pub fn get_pri_log (car:Car) -> String {
+        car.log
+    }
+}
+
+pub fn for_test() {
+    let car = Produce::Car();
+    println!("version={}",car.version);
+    // println!("version={}",car.log);//无法直接访问
+    println!("log={}",Produce::get_pri_log(car));
+}
+
 
