@@ -297,6 +297,18 @@
   }
   ```
 
+- 变量名取代其余值
+
+  ```rust
+      let x = MyEnum::HeiHei;
+      let x = match x {
+          MyEnum::Ok => 1,
+          MyEnum::Err => 0,
+          other => -1
+      };
+      println!("{}",x);
+  ```
+
   
 
 

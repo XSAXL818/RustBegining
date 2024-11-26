@@ -13,7 +13,30 @@ fn main() {
     test4();
     println!("-------");
 
+    test5(); 
+    println!("-------");
 }
+
+enum MyEnum {
+    Ok,
+    Err,
+    Haha,
+    HeiHei
+}
+
+fn test5() {
+    // let x = MyEnum::Ok;
+    // let x = MyEnum::Err;
+    let x = MyEnum::HeiHei;
+    let x = match x {
+        MyEnum::Ok => 1,
+        MyEnum::Err => 0,
+        other => -1
+    };
+    println!("{}",x);
+
+}
+
 
 fn test4(){
     match 5 {
